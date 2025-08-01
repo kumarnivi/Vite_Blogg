@@ -117,7 +117,7 @@ export const Login = () => {
               </div>
 
               {/* Demo Credentials */}
-              <div className="space-y-3 p-4 bg-muted/50 rounded-lg">
+             {/*  <div className="space-y-3 p-4 bg-muted/50 rounded-lg">
                 <p className="text-sm font-medium">Demo Accounts:</p>
                 <div className="flex gap-2">
                   <Button
@@ -140,6 +140,7 @@ export const Login = () => {
                   </Button>
                 </div>
               </div>
+              */}
             </CardContent>
 
             <CardFooter className="flex flex-col space-y-4">
