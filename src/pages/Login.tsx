@@ -151,7 +151,7 @@ export const Login = () => {
               <p className="text-sm text-center text-muted-foreground">
                 Don't have an account?{' '}
                 <Link to="/register" className="text-primary hover:underline">
-                  Create one here
+                  Create one
                 </Link>
               </p>
             </CardFooter>
